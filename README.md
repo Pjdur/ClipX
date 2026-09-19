@@ -1,7 +1,26 @@
-# Tauri + Vanilla TS
+# ClipX
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+ClipX is a lightweight clipboard manager made using Rust and Tauri.
 
-## Recommended IDE Setup
+**Features:**
+- Real time capture
+- Compact UI
+- Recopy item to top by clicking a card
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+**Development:**
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/Pjdur/ClipX.git
+    cd ClipX
+    ```
+
+2. Install dependencies
+    ```bash
+    npm install
+    ```
+
+3. Run app (development mode)
+    ```bash
+    npm run tauri dev
+    ```
