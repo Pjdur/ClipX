@@ -24,3 +24,10 @@ ClipX is a lightweight clipboard manager made using Rust and Tauri.
     ```bash
     npm run tauri dev
     ```
+
+**Roadmap**
+
+- [ ] Hotkey support (Alt+V)
+- [ ] Add basic search
+- [ ] Item pinning
+- [ ] Add support for images
