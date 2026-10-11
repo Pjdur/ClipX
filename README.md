@@ -6,6 +6,7 @@ ClipX is a lightweight clipboard manager made using Rust and Tauri.
 - Real time capture
 - Compact UI
 - Recopy item to top by clicking a card
+- 50-item history limit
 
 **Development:**
 
