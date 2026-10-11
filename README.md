@@ -31,3 +31,7 @@ ClipX is a lightweight clipboard manager made using Rust and Tauri.
 - [ ] Add basic search
 - [ ] Item pinning
 - [ ] Add support for images
+
+## License
+
+MIT (see [LICENSE](.\LICENSE))
